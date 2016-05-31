@@ -1,11 +1,12 @@
-/*	CSE360 assign2
- * 	Author: Shahad Hummusani
+/*	CSE360assign2
  *  PIN: 27
  *  Description: The program implements a list as an array of integer and inserts a new value into the array so that the array remains in ascending order 
  *  after that it prints the list in ascending order 5 integers per line, each separated by a tab.
  */
 package cse360assign2;
-
+/*
+ * @author Shahad Hummusani
+ */
 public class OrderedIntList 
 {
 	protected int[] array;  //array
