@@ -5,7 +5,9 @@
  *  after that it prints the list in ascending order 5 integers per line, each separated by a tab.
  */
 package cse360assign2;
-
+/*
+ * @author Shahad Hummusani
+ */
 public class OrderedIntList 
 {
 	protected int[] array;  //array
